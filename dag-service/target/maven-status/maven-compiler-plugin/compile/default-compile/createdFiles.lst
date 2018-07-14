@@ -1,0 +1,8 @@
+com/dag/services/beans/UploadStatus.class
+com/dag/services/beans/SuperStore.class
+com/dag/services/beans/Welcome.class
+com/dag/services/beans/UserRegistration.class
+com/dag/services/controller/ExcelController.class
+com/dag/service/DagServiceApplication.class
+com/dag/services/controller/UserRegistrationController.class
+com/dag/services/controller/WelcomeController.class
